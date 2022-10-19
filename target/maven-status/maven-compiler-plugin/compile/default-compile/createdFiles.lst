@@ -1,0 +1,5 @@
+com\springboot\controller\ProductController.class
+com\springboot\entity\Product.class
+com\springboot\repository\Productrepository.class
+com\springboot\MyFirstSpringbootCurdApplication.class
+com\springboot\service\ProductService.class
